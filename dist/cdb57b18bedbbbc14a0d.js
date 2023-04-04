@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",(()=>{const e=document.querySelector(".menu__burger1"),t=document.querySelector(".header-pets");e.addEventListener("click",(()=>{t.classList.toggle("open"),document.body.classList.toggle("lock")}))}));
